@@ -12,7 +12,8 @@
 # Code           Place
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)
-# au		  Australia (Sydney)
+# au		  Aus
+tralia (Sydney)
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
